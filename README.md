@@ -1,7 +1,7 @@
 # Fire-Detection-using-CNN-and-Contour
+
 Fire Detection using CNN and Contour for estimation 
 After downloading all the files 
-
 Step1:
     Run the trail.py file
     It will generate the pickle files. 
