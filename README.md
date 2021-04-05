@@ -7,7 +7,7 @@ Step1:
     It will generate the pickle files. 
 Step 2:
     After generating the pickle then run the trail1.py  
-    It will generate model.CNN files
+    It will generate CNN.model files
 Step 3:
     Then go to terminal and run main.py
     Type the file name 
